@@ -1,2 +1,7 @@
-<h1>Organizador de diretorio por extensão de arquivos</h1>
+<h1>Organizadores de arquivos</h1>
+
+<ul>
+    <li>Organizador por data</li>
+    <li>Organizador por extensão de arquivos</li>
+</ul>
 
