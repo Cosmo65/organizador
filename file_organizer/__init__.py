@@ -1,20 +1,2 @@
-
-
-path = "C:\\Users\\joaov\\Desktop\\discordBot"
-
-org = Organizador()
-
-print(org)
-#
-
-#
-#
-#
-#
-#
-# for root, folders, files in os.walk(path):
-#     print(root, folders, files)
-#     if files:
-#         for file in files:
-#             print(file)
-#
+if __name__ == '__main__':
+    print("""\033[32mFile Organizer v0.1 \nby: João Queiroz""")
